@@ -6,7 +6,7 @@
 "app_secret":"d2209afd0052ce89a3cbf481034a4a46",
 # 模板消息id
 "template_id":"xgVF8maHPo7HFTLODJiSU4G7r2053pEx_nO4EZsYJOA",
-# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1","wx2"]
 "user":["ouvFy6MFytcHNr1Ns1SuFHr2aVsg","ouvFy6LHHry_4s4h1adLzE3_LGyg"],
  
 # 信息配置
@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date":"2022-04-29",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch":"",
+"note_ch":"老北鼻",
 # 金句英文
-"note_en":""
+"note_en":"l",
 }
